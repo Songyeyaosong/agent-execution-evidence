@@ -1,0 +1,41 @@
+[
+  {
+    "name": "http",
+    "url": "https://www.rfc-editor.org/rfc/rfc9110.html",
+    "final_url": "https://www.rfc-editor.org/rfc/rfc9110.html",
+    "status": 200,
+    "checked_at_utc": "2026-09-10T05:51:11.372615+00:00",
+    "term_found": true
+  },
+  {
+    "name": "hash",
+    "url": "https://csrc.nist.gov/pubs/fips/180-4/upd1/final",
+    "error_type": "HTTPError",
+    "status": 403,
+    "used_in_article": false,
+    "note": "Stopped using this unavailable NIST page; article cites an independently read RFC primary source."
+  },
+  {
+    "name": "build",
+    "url": "https://reproducible-builds.org/docs/definition/",
+    "final_url": "https://reproducible-builds.org/docs/definition/",
+    "status": 200,
+    "checked_at_utc": "2026-09-10T05:51:07.578187+00:00",
+    "term_found": true
+  },
+  {
+    "name": "liveness",
+    "url": "https://sre.google/sre-book/monitoring-distributed-systems/",
+    "final_url": "https://sre.google/sre-book/monitoring-distributed-systems/",
+    "status": 200,
+    "checked_at_utc": "2026-09-10T05:51:07.093224+00:00",
+    "term_found": true
+  },
+  {
+    "name": "hash_rfc",
+    "url": "https://www.rfc-editor.org/rfc/rfc6234.html",
+    "status": 200,
+    "checked_at_utc": "2026-09-10T05:52:54.080030+00:00",
+    "used_for": "Primary hash-algorithm reference replacing an unavailable NIST page."
+  }
+]
